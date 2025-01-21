@@ -20,4 +20,4 @@ Este projeto é uma homenagem ao icônico Super Mario, criado com tecnologias we
 <img style="width:800px" src="assets/cap tela.jpg" alt="Super Mario">
 </p>
 
-<a href="https://joomdeveloper.github.io/Game-do-Mario/">Acesse o Jogo</a>
+<a target="_blank" href="https://joomdeveloper.github.io/Game-do-Mario/">Acesse o Jogo</a>
