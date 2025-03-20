@@ -1,7 +1,3 @@
-<p align="center">
-<img src="assets/img/superMario.png" alt="Super Mario">
-</p>
-
 ### 📸 Prévia do Jogo
 
 <p align="center">
